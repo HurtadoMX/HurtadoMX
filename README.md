@@ -5,18 +5,6 @@
 
 <br>
 
-<!-- Typing header (opcional, mantiene dinamismo) -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1600&height=200&lines=Mid-Level+Frontend+Developer;React+•+Next.js+•+TypeScript+•+Web3"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
-
----
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> What I Do
 
 - 💻 **Mid-Level Frontend Developer**
