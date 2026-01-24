@@ -19,7 +19,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://www.linkedin.com/in/manuel-hurtado-58b809232/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
 </a>
 <a href="https://github.com/HurtadoMX" target="blank">
